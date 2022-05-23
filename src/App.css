@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  margin: 1rem;
+  width: 500px;
+  border: groove;
+  border-radius: 5px;
+  box-shadow: 5px 10px #888888;
+}
+
+.card{
+  margin-top: 2rem;
+}
+
+.card button{
+  margin-left: 1rem;
+}
